@@ -11,12 +11,13 @@ Currently expanding my skills in **Test Automation** (Python, Selenium, Playwrig
 - Detecting edge cases and identifying potential risks early.
 - Executing functional, regression, and sanity tests with precision.
 - Reporting defects effectively with detailed reproduction steps.
-- **Team Collaboration** — work efficiently in diverse teams, fostering communication and shared goals.
-- **Commitment to the Role** — dedicated to seeing tasks through to completion, ensuring quality and reliability.
+- **Team Collaboration** : work efficiently in diverse teams, fostering communication and shared goals.
+- **Commitment to the Role** : dedicated to seeing tasks through to completion, ensuring quality and reliability.
 
 ## Career Transition
-After 15+ years in industrial management — leading teams, optimizing processes, and ensuring operational quality —  
-I decided to transition into the world of **Quality Assurance**. My background in **process improvement, problem-solving, and cross-team communication**  
+After 15+ years in industrial management, leading teams, optimizing processes, and ensuring operational quality —  
+I decided to transition into the world of **Quality Assurance**.
+My background in **process improvement, problem-solving, and cross-team communication**  
 gives me a strong foundation for identifying and addressing quality gaps in software products.
 
 ## Links
