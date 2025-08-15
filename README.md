@@ -21,6 +21,6 @@ gives me a strong foundation for identifying and addressing quality gaps in soft
 
 ## Links
 
-- Portfolio site — [GitHub Pages](https://lahavmauda.github.io/All-About-me/)
+- Portfolio site — https://lahavmauda.github.io/All-About-me/
 - LinkedIn — https://www.linkedin.com/in/lahav-mauda/
 - Email — lahavmauda@gmail.com | Phone — +972-50-533-7763
