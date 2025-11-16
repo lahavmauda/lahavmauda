@@ -73,3 +73,14 @@ I believe quality is not a phase - it’s a culture.
 <p align="center">
   <i>Activity charts auto-update daily based on public commits and repository metadata.</i>
 </p>
+
+
+---
+
+### 🧑‍💻 Author
+**Lahav Mauda**  
+QA Manual & Automation Tester | Passionate about transforming testing into confidence.  
+🎓 Graduate of Automation College Tel Aviv (Instructor: Gal Matalon)  
+🌐 [GitHub Profile](https://github.com/lahavmauda) · [LinkedIn](https://www.linkedin.com/in/lahav-mauda)
+
+---
