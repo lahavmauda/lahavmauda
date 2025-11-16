@@ -53,16 +53,18 @@ I believe quality is not a phase - it’s a culture.
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lahavmauda&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api?username=lahavmauda&show_icons=true&theme=default&hide_title=false&count_private=true&include_all_commits=true&hide_border=true"
        alt="Lahav's GitHub Stats"
        width="48%"
   />
   <img 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lahavmauda&layout=compact&langs_count=8&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahavmauda&layout=compact&theme=default&langs_count=8&hide_border=true"
        alt="Top Languages"
        width="48%"
   />
