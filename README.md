@@ -8,7 +8,7 @@ I’m a Quality Assurance tester passionate about making products reliable and u
 My background combines 15+ years of process management with a sharp eye for detail and structured problem-solving.  
 Currently focusing on **Automation Testing** with **Python** and **Playwright**, while keeping a strong foundation in **Manual QA**.  
 
-I believe quality isn’t a phase – it’s a culture.
+I believe quality isn’t a phase - it’s a culture.
 
 ---
 
