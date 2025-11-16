@@ -1,27 +1,33 @@
-# Lahav Mauda — Manual QA & Transition to Automation
+# Lahav Mauda - Manual QA transitioning to Automation
 
-## About Me
-I am a detail-oriented **Manual QA Tester** with strong analytical skills, a collaborative team player,  
-and a passion for delivering high-quality software.  
-Currently expanding my skills in **Test Automation** (Python, Selenium, Playwright) to enhance my testing capabilities.
+I am a detail oriented Manual QA Tester with strong analytical thinking and clear communication.
+I am building hands on experience in test design, execution, and defect reporting, and I am expanding into test automation with #Python and #Playwright.
 
-## Strengths in Manual QA
-- Writing clear and comprehensive test cases.
-- Designing test scenarios based on requirements and user stories.
-- Detecting edge cases and identifying potential risks early.
-- Executing functional, regression, and sanity tests with precision.
-- Reporting defects effectively with detailed reproduction steps.
-- **Team Collaboration** : work efficiently in diverse teams, fostering communication and shared goals.
-- **Commitment to the Role** : dedicated to seeing tasks through to completion, ensuring quality and reliability.
+## Focus areas
+- Test planning and test case writing based on requirements and user stories
+- Functional, sanity, and regression testing with precise reproduction steps
+- Risk and edge case thinking from a QA perspective
+- Clear defect reporting with expected vs actual and attachments when relevant
+- Teamwork and ownership to drive quality to release
 
-## Career Transition
-After 15+ years in industrial management, leading teams, optimizing processes, and ensuring operational quality —  
-I decided to transition into the world of **Quality Assurance**.
-My background in **process improvement, problem-solving, and cross-team communication**  
-gives me a strong foundation for identifying and addressing quality gaps in software products.
+## Background
+I bring 15 plus years of operations leadership in industry, where I optimized processes and improved quality.
+This background helps me approach software testing with a process mindset and strong attention to detail.
 
-## Links
+## Selected projects
+- AllTrails QA Final Project - Manual Testing  
+  Test design and structured execution for web flows.
+  Public page: https://lahavmauda.github.io/alltrails-final-project/
 
-- Portfolio site — https://lahavmauda.github.io/All-About-me/
-- LinkedIn — https://www.linkedin.com/in/lahav-mauda/
-- Email — lahavmauda@gmail.com | Phone — +972-50-533-7763
+- Personal Portfolio  
+  Simple static site to present who I am and what I am learning. Public page: https://lahavmauda.github.io/All-About-me/
+
+## Tech and tools
+- Manual QA: STP, STD, STR, defect reporting
+- Test management and tracking: spreadsheets and checklists
+- Automation learning path: Python, Playwright
+- Version control: Git and GitHub
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/lahav-mauda/
+- Email: lahavmauda@gmail.com
