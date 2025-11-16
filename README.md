@@ -1,7 +1,7 @@
 # Lahav Mauda - Manual QA transitioning to Automation
 
 I am a detail oriented Manual QA Tester with strong analytical thinking and clear communication.
-I am building hands on experience in test design, execution, and defect reporting, and I am expanding into test automation with #Python and #Playwright.
+I am building hands on experience in test design, execution, and defect reporting, and I am expanding into test automation with Python and Playwright.
 
 ## Focus areas
 - Test planning and test case writing based on requirements and user stories
