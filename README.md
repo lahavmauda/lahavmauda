@@ -57,7 +57,7 @@ I believe quality is not a phase - it’s a culture.
 
 <p align="center">
   <img 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lahavmauda&show_icons=true&theme=default&hide_title=false&count_private=true&include_all_commits=true&hide_border=true"
+       src="https://github-readme-stats-lahav.vercel.app/api?username=lahavmauda&show_icons=true&theme=default&hide_title=false&count_private=true&include_all_commits=true&hide_border=true"
        alt="Lahav's GitHub Stats"
        width="48%"
   />
