@@ -1,49 +1,52 @@
 <h1 align="center">Hi, I'm Lahav 👋</h1>
-<h3 align="center">QA Tester evolving from Manual to Automation | Python · Playwright · Quality Mindset in Action</h3>
+<h3 align="center">Manual QA Tester growing into Automation | Python · Playwright · Quality Mindset in Action</h3>
 
 ---
 
 ### 🌟 About Me
-I’m a Quality Assurance tester passionate about making products reliable and user-friendly.  
-My background combines 15+ years of process management with a sharp eye for detail and structured problem-solving.  
-Currently focusing on **Automation Testing** with **Python** and **Playwright**, while keeping a strong foundation in **Manual QA**.  
+I’m a Quality Assurance tester focused on making products more reliable, intuitive, and user-centered.  
+My journey bridges **manual testing precision** with the **logic and scalability of automation**.
 
-I believe quality isn’t a phase - it’s a culture.
+After 15+ years in production and operations management, I bring process thinking, documentation discipline, and attention to detail into QA.
+
+Currently studying **Automation Testing (Python & Playwright)** at **Automation College Tel Aviv** with **Gal Matalon**.  
+I believe quality is not a phase - it’s a culture.
 
 ---
 
 ### 🧠 Tech & Tools
-![Manual Testing](https://img.shields.io/badge/Testing-Manual-blue)
-![Automation](https://img.shields.io/badge/Automation-Python%20%7C%20Playwright-green)
-![Documentation](https://img.shields.io/badge/Documents-STP%2FSTD%2FSTR-orange)
-![TestRail](https://img.shields.io/badge/Tools-TestRail%20%7C%20Jira-lightgrey)
-![Process](https://img.shields.io/badge/Mindset-Quality-blueviolet)
+![Manual Testing](https://img.shields.io/badge/Manual-Testing-blue?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Python%20%7C%20Playwright-green?style=flat-square)
+![Docs](https://img.shields.io/badge/Docs-STP%20|%20STD%20|%20STR-orange?style=flat-square)
+![TestRail](https://img.shields.io/badge/Test-Management-TR%20|%20Jira-lightgrey?style=flat-square)
+![Quality Mindset](https://img.shields.io/badge/Mindset-Quality-blueviolet?style=flat-square)
 
 ---
 
 ### 🚀 Featured Projects
-| Project | Description | Tools |
-|----------|--------------|--------|
-| [AllTrails QA Final Project](https://github.com/lahavmauda/alltrails-final-project) | Full manual QA process including STP, STD, STR docs and bug reporting | Manual QA, Documentation |
-| [All About Me – Portfolio](https://github.com/lahavmauda/All-About-me) | Personal website showcasing my journey into QA and automation | HTML, CSS |
-| [HTML Practice Project](https://github.com/lahavmauda/html) | Sandbox for learning and testing web structure and elements | HTML, Web Testing |
+
+| Project | Description | Technologies | Link |
+|----------|--------------|---------------|------|
+| 🧭 **AllTrails QA Final Project** | Full manual QA process including STP, STD, STR, sanity & regression docs. | Manual QA, Documentation, Testing Strategy | [View Repository](https://github.com/lahavmauda/alltrails-final-project) |
+| 🌐 **All About Me – Portfolio** | Personal site showcasing my QA journey and automation learning path. | HTML, CSS | [View Site](https://lahavmauda.github.io/All-About-me/) |
+| 🧪 **HTML Practice Project** | Sandbox for testing and understanding web structure, tags, and layouts. | HTML, CSS | [View Repository](https://github.com/lahavmauda/html) |
 
 ---
 
-### 📈 Current Focus
-- Strengthening test automation with **Python + Playwright**  
-- Expanding experience with **TestRail, Jira, API Testing, SQL**  
-- Practicing structured documentation and defect tracking  
-- Building an end-to-end QA workflow that bridges manual and automation testing  
+### 📈 My Current Focus
+- Strengthening automation with **Python & Playwright**  
+- Expanding experience in **API Testing & SQL**  
+- Writing structured documentation (STP / STD / STR)  
+- Combining QA logic with usability insight  
 
 ---
 
 ### 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lahav-mauda/)  
-- [GitHub Portfolio](https://github.com/lahavmauda)  
+- [GitHub Profile](https://github.com/lahavmauda)  
 - 📧 Email: lahavmauda@gmail.com  
 
 ---
 
 **License:** MIT © 2025 Lahav Mauda  
-**“Turning testing into quality confidence.”**
+**"Turning testing into quality confidence."**
