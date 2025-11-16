@@ -1,33 +1,34 @@
 # Lahav Mauda - Manual QA transitioning to Automation
 
-I am a detail oriented Manual QA Tester with strong analytical thinking and clear communication.
-I am building hands on experience in test design, execution, and defect reporting, and I am expanding into test automation with Python and Playwright.
+I'm a detail-oriented Manual QA Tester with strong analytical thinking and clear communication.  
+I'm gaining real-world testing experience in test design, execution, and defect reporting,  
+and I'm growing into Automation with Python and Playwright.
 
 ## Focus areas
-- Test planning and test case writing based on requirements and user stories
-- Functional, sanity, and regression testing with precise reproduction steps
-- Risk and edge case thinking from a QA perspective
-- Clear defect reporting with expected vs actual and attachments when relevant
-- Teamwork and ownership to drive quality to release
+- Writing clear and structured test cases based on user stories and requirements  
+- Running functional, sanity, and regression checks with precise reproduction steps  
+- Thinking through risks and edge cases from a QA mindset  
+- Reporting bugs clearly with expected vs actual results and screenshots when needed  
+- Working closely with teams to make sure releases meet quality standards
 
 ## Background
-I bring 15 plus years of operations leadership in industry, where I optimized processes and improved quality.
-This background helps me approach software testing with a process mindset and strong attention to detail.
+I bring over 15 years of hands-on experience in industrial operations, where I optimized processes and improved quality.  
+That background helps me approach software testing with process thinking, accuracy, and an eye for detail.
 
 ## Selected projects
-- AllTrails QA Final Project - Manual Testing  
-  Test design and structured execution for web flows.
-  Public page: https://lahavmauda.github.io/alltrails-final-project/
+- **AllTrails QA Final Project - Manual Testing**  
+  Designed and executed manual tests for common user flows on the AllTrails site.  
+  [View project](https://lahavmauda.github.io/alltrails-final-project/)
 
-- Personal Portfolio  
-  Simple static site to present who I am and what I am learning. Public page: https://lahavmauda.github.io/All-About-me/
+- **Personal Portfolio**  
+  A simple site that tells my story and shows my QA journey.  
+  [View site](https://lahavmauda.github.io/All-About-me/)
 
 ## Tech and tools
-- Manual QA: STP, STD, STR, defect reporting
-- Test management and tracking: spreadsheets and checklists
-- Automation learning path: Python, Playwright
+- Manual QA: STP, STD, STR, bug tracking, test documentation  
+- Test management: spreadsheets, structured reports, and tracking tables  
+- Automation learning path: Python, Playwright  
 - Version control: Git and GitHub
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/lahav-mauda/
-- Email: lahavmauda@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/lahav-mauda/](https://www.linked)
